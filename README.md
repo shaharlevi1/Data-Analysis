@@ -1,5 +1,6 @@
 # Data-Analysis-Projects
-Data analysis projects using Python:
+Data analysis projects using Python:-
+
 Video Games Sales - Data Analyst Course Final Project
 
 1) Project 1 Uber Analysis - https://nbviewer.jupyter.org/github/shaharlevi1/Data-Analysis-Projects/blob/main/Project%201%20-%20Uber%20Analysis/Uber%20Analysis.ipynb
